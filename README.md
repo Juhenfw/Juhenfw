@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juhen Fashikha Wildan</h1>
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
+<img align="right" alt="AI" width="400" src="https://storage.ko-fi.com/cdn/useruploads/display/5805ffba-7bb9-4fd3-a8a8-fbe5b8d71be6_1_jwt-nggfzflxnmkndlylja.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
 
