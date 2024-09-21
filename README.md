@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/juhenfw](http://bit.ly/juhenfw)
 
-- ⚡ Fun fact **I think I am Sleepy**
+- ⚡ Fun fact **I think I am Sleepy Every Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
