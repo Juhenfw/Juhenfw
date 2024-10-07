@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>   -->
 <a href="https://www.linkedin.com/in/juhenfw/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:juhenwildan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
 </a>
 <a href='https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
