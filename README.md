@@ -45,11 +45,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
 
-- 🔭 I’m currently Studying at **Airlangga University**
+- 📖 I’m currently Studying at **Airlangga University**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Writing, Research**
+- 🤝 I’m looking to collaborate on **Writing, Research**
 
 - 💬 Ask me about **basic code**
 
