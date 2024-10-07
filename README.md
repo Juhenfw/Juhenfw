@@ -10,7 +10,7 @@
 <!-- <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>   -->
-<a href="www.linkedin.com/in/juhenfw">
+<a href="www.linkedin.com/juhenfw">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:juhenwildan@gmail.com">
