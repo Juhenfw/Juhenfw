@@ -25,6 +25,12 @@
 <!-- <a href="https://pypi.org/user/drkostas/">
     <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a> -->
+<a href="https://instagram.com/juhenfw_">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<a href="https://twitter.com/juhenfw_">
+    <img src="https://img.shields.io/badge/-X-%23000000?style=flat-square&logo=X&logoColor=white">
+</a>
 
 <br/> 
 
@@ -34,7 +40,10 @@
 
 </p>
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif"></p>
+<br/>
+<img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
 
 - 🔭 I’m currently Studying at **Airlangga University**
 
@@ -46,13 +55,8 @@
 
 - ⚡ Fun fact **I'm sleepy day in, day out**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/juhenfw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juhenfw_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhenfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhenfw" height="30" width="40" /></a>
-<a href="https://instagram.com/juhenfw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juhenfw_" height="30" width="40" /></a>
-</p>
 
+<br/><br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
