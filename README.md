@@ -1,4 +1,33 @@
-<h1 align="center">Hi 👋, I'm Juhen Fashikha Wildan</h1>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Juhen+Fashikha+Wildan;Student+%7C+Tech+Tech Enthusiast+%7C+General+Engineer" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="http://bit.ly/juhenfw">
+    <img src="https://img.shields.io/badge/Website-bit.ly/juhenfw-red?style=flat-square">
+</a>  
+<!-- <a href="https://gkos.dev/Resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>   -->
+<a href="www.linkedin.com/in/juhenfw">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:juhenwildan@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<a href='https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<!-- <a href="https://pypi.org/user/drkostas/">
+    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+</a> -->
+<!-- <a href="https://pypi.org/user/drkostas/">
+    <img src="https://komarev.com/ghpvc/?username=drkostas&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+</a> -->
+
+<br/> 
+  
 <h3 align="center">A passionate Artificial Intelligence Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif">
 
