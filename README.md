@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Juhen+Fashikha+Wildan;Student+%7C+Tech+Tech Enthusiast+%7C+General+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Juhen+Fashikha+Wildan;Student+%7C+Tech+Enthusiast+%7C+General+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -27,29 +27,24 @@
 </a> -->
 
 <br/> 
-  
-<h3 align="center">A passionate Artificial Intelligence Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
+<a href="https://github.com/Juhenfw">
+    <img src="https://github-stats-alpha.vercel.app/api?username=juhenfw&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-<p align="left"> <a href="https://twitter.com/juhenfw_" target="blank"><img src="https://img.shields.io/twitter/follow/juhenfw_?logo=twitter&style=for-the-badge" alt="juhenfw_" /></a> </p>
+</p>
 
-- 🔭 I’m currently working on **Airlangga University**
+<p align="left"> <img align="right" alt="Coding" width="400" src="https://www.ismartcom.com/hs-fs/hubfs/ai%20gif.gif?width=600&name=ai%20gif.gif"></p>
+
+- 🔭 I’m currently Studying at **Airlangga University**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Writing, Research**
 
-- 🤝 I’m looking for help with **to Revise my Code**
-
 - 💬 Ask me about **basic code**
 
-- 📫 How to reach me **juhenwildan@gmail.com**
-
-- 📄 Know about my experiences [http://bit.ly/juhenfw](http://bit.ly/juhenfw)
-
-- ⚡ Fun fact **I think I am Sleepy Every Time**
+- ⚡ Fun fact **I'm sleepy day in, day out**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,6 +66,17 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+
+
+<br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhenfw&show_icons=true&locale=en&layout=compact" alt="juhenfw" /></p>
