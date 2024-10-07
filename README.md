@@ -74,10 +74,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juhenfw&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juhenfw&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juhenfw&theme=dracula)
 
 
 <br>
@@ -85,6 +85,5 @@ My Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juhenfw&show_icons=true&locale=en&layout=compact" alt="juhenfw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhenfw&show_icons=true&locale=en" alt="juhenfw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&" alt="juhenfw" /></p>
