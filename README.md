@@ -47,7 +47,7 @@
 
 🎓 I’m currently Studying at **Airlangga University**
 
-📖 I’m currently learning **Machine Learning**
+🌱 I’m currently learning **Machine Learning**
 
 :dizzy: My interests include **Writing** and **Research**  
 
