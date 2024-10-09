@@ -45,15 +45,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
 
-- 📖 I’m currently Studying at **Airlangga University**
+🎓 I’m currently Studying at **Airlangga University**
 
-- 🌱 I’m currently learning **Machine Learning**
+📖 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking to collaborate on **Writing, Research**
+:dizzy: My interests include **Writing** and **Research**  
 
-- 💬 Ask me about **basic code**
+💬 Ask me about **Projects I have done**
 
-- ⚡ Fun fact **I'm sleepy day in, day out**
+😴 Fun fact: **I'm sleepy day in, day out**
 
 
 <br/><br/>
