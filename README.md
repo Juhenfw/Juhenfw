@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/juhenfw">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Juhen+Fashikha+Wildan;Student+%7C+Tech+Enthusiast+%7C+General+Engineer;Robotics+%7C+AI+%7C+Machine+Learning&color=000000" alt="Typing SVG" />
 </a>
 <br/>
