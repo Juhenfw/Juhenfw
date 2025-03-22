@@ -72,7 +72,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <br>
-My Github Stats
+<h3 align="left">My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juhenfw&theme=dracula) 
 
