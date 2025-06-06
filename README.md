@@ -45,15 +45,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20views&color=0e75b6&style=flat" alt="juhenfw" /> </p>
 
-🎓 I’m currently Studying at **Airlangga University**
+🎓 I'm currently Studying **Robotics & AI** at **Airlangga University**
 
-🌱 I’m currently learning **Machine Learning**
+🌱 I'm currently learning **Machine Learning**, **Deep Learning**, and **Computer Vision**
 
-:dizzy: My interests include **Writing** and **Research**  
+🔬 Research interests: **Robotics**, **AI**, **IoT**, and **Autonomous Systems**
 
-💬 Ask me about **Projects I have done**
-
-😴 Fun fact: **I'm sleepy day in, day out**
+💬 Ask me about **YOLO**, **TensorRT**, **ESP32**, and **Path Planning Algorithms**
 
 
 <br/><br/>
@@ -70,6 +68,23 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🐜 [Ant Colony Optimization](https://github.com/juhenfw/Ant-Colony-for-Path-Planning-Route)
+Advanced path planning using swarm intelligence algorithms
+
+### 📱 [Computer Vision QR Detection](https://github.com/juhenfw/QR-Code-Detection-Project) 
+Real-time QR code detection using OpenCV and mvsdk
+
+### 🤖 [Autonomous Follow Robot](https://github.com/juhenfw/Follow-Me-Robot)
+Object tracking robot with computer vision capabilities
+
+### 🌤️ [IoT Weather Station](https://github.com/juhenfw/ESP32-Weather-Monitoring)
+ESP32-based environmental monitoring system
+
 
 <br>
 <h3 align="left">My Github Stats
