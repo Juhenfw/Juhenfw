@@ -80,7 +80,7 @@ Advanced path planning using swarm intelligence algorithms
 Real-time QR code detection using OpenCV and mvsdk
 
 ### 🤖 [Autonomous Follow Robot](https://github.com/juhenfw/Follow-Me-Robot)
-Object tracking robot with computer vision capabilities
+Object tracking robot with indoor-tracking sensor & Lidar
 
 ### 🌤️ [IoT Weather Station](https://github.com/juhenfw/ESP32-Weather-Monitoring)
 ESP32-based environmental monitoring system
