@@ -4,8 +4,8 @@
 </a>
 <br/>
 
-<a href="http://bit.ly/juhenfw">
-    <img src="https://img.shields.io/badge/Website-bit.ly/juhenfw-red?style=flat-square">
+<a href="juhenfw.github.io">
+    <img src="https://img.shields.io/badge/Website-juhenfw.github.io-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.dev/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
