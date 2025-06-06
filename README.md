@@ -4,7 +4,7 @@
 </a>
 <br/>
 
-<a href="juhenfw.github.io">
+<a href="https://juhenfw.github.io">
     <img src="https://img.shields.io/badge/Website-juhenfw.github.io-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.dev/Resume.pdf">
