@@ -73,16 +73,16 @@
 
 ## 🚀 Featured Projects
 
-### 🐜 [Ant Colony Optimization](https://github.com/juhenfw/Ant-Colony-for-Path-Planning-Route)
+### 🐜 [Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)
 Advanced path planning using swarm intelligence algorithms
 
-### 📱 [Computer Vision QR Detection](https://github.com/juhenfw/QR-Code-Detection-Project) 
+### 📱 [Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera) 
 Real-time QR code detection using OpenCV and mvsdk
 
-### 🤖 [Autonomous Follow Robot](https://github.com/juhenfw/Follow-Me-Robot)
+### 🤖 [Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)
 Object tracking robot with indoor-tracking sensor & Lidar
 
-### 🌤️ [IoT Weather Station](https://github.com/juhenfw/ESP32-Weather-Monitoring)
+### 🌤️ [IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)
 ESP32-based environmental monitoring system
 
 
