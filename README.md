@@ -9,7 +9,7 @@
 
 <!-- Social Media Badges - TokyoNight Colors -->
 <p>
-    <a href="https://juhenfw.github.io">
+    <a href="juhenfw.github.io">
         <img src="https://img.shields.io/badge/🌐_Portfolio-juhenfw.github.io-7AA2F7?style=for-the-badge&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/juhenfw/">
