@@ -111,7 +111,7 @@
 |---------|-------------|--------------|
 | 🐜 **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)** | Advanced path planning using swarm intelligence algorithms | `Python` `NumPy` `Matplotlib` |
 | 📱 **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)** | Real-time QR code detection using OpenCV and mvsdk | `OpenCV` `Python` `mvsdk` |
-| 🤖 **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)** | Object tracking robot with indoor-tracking sensor & Lidar | `Arduino` `Lidar` `Sensors` |
+| 🤖 **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)** | Object tracking robot with indoor-tracking sensor & Lidar | `RaspberryPi` `Lidar` `Sensors` |
 | 🌤️ **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)** | ESP32-based environmental monitoring system | `ESP32` `IoT` `Sensors` |
 
 </div>
@@ -155,11 +155,6 @@
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 **"The future belongs to those who learn more skills and combine them in creative ways."** 
 
