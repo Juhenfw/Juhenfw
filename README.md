@@ -1,71 +1,66 @@
 <div align="center">
 
-<!-- Header dengan Typing Animation -->
-<a href="https://github.com/juhenfw">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Juhen+👋;Robotics+%26+AI+Student;Machine+Learning+Enthusiast;Tech+Innovation+Explorer" alt="Typing SVG" />
-</a>
+<!-- Header dengan Typing Animation - TokyoNight Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Juhen+👋;Robotics+%26+AI+Student;Tech+Innovation+Explorer&color=1A1B26" alt="Typing SVG" />
 
 <!-- Subtitle -->
 <h3>🎓 Robotics & AI Student at Airlangga University</h3>
 <h4>🚀 Passionate about Machine Learning, Computer Vision & Autonomous Systems</h4>
 
-<!-- Social Media Badges -->
+<!-- Social Media Badges - TokyoNight Colors -->
 <p>
     <a href="https://juhenfw.github.io">
-        <img src="https://img.shields.io/badge/🌐_Portfolio-juhenfw.github.io-blue?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/🌐_Portfolio-juhenfw.github.io-7AA2F7?style=for-the-badge&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/juhenfw/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:juhenwildan@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-F7768E?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href='https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id'>
-        <img src='https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white'>
+    <a href="https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id">
+        <img src="https://img.shields.io/badge/Google_Scholar-9ECE6A?style=for-the-badge&logo=google-scholar&logoColor=white">
     </a>
 </p>
 
 <p>
     <a href="https://instagram.com/juhenfw_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/Instagram-BB9AF7?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://twitter.com/juhenfw_">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+        <img src="https://img.shields.io/badge/X-414868?style=for-the-badge&logo=x&logoColor=white">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=juhenfw&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/juhenfw">
-    <img src="https://github-stats-alpha.vercel.app/api?username=juhenfw&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=juhenfw&cc=1A1B26&tc=C0CAF5&ic=7AA2F7&bc=414868">
 </a>
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<table>
-<tr>
-<td width="50%">
+## 🧑‍💻 About Me
 
-### 🧑‍💻 About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **Currently Studying:** Robotics & AI at **Airlangga University**
-- 🌱 **Learning:** Machine Learning, Deep Learning, Computer Vision
-- 🔬 **Research Interests:** Robotics, AI, IoT, Autonomous Systems
-- 💬 **Ask me about:** YOLO, TensorRT, ESP32, Path Planning Algorithms
-- 🎯 **Goal:** Contributing to the future of autonomous systems
-- ⚡ **Fun fact:** I love solving complex optimization problems!
+🎓 **Currently Studying:** Robotics & AI at **Airlangga University**
 
-</td>
-<td width="50%">
+🌱 **Learning:** Machine Learning, Deep Learning, Computer Vision
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+🔬 **Research Interests:** Robotics, AI, IoT, Autonomous Systems
 
-</td>
-</tr>
-</table>
+💬 **Ask me about:** YOLO, TensorRT, ESP32, Path Planning Algorithms
+
+🎯 **Goal:** Contributing to the future of autonomous systems
+
+⚡ **Fun fact:** I love solving complex optimization problems!
+
+
+
+<br clear="both"/>
 
 ---
 
@@ -75,33 +70,33 @@
 
 ### Programming Languages
 <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-7AA2F7?style=for-the-badge&logo=python&logoColor=1A1B26" alt="Python">
+    <img src="https://img.shields.io/badge/C++-F7768E?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/C-9ECE6A?style=for-the-badge&logo=c&logoColor=1A1B26" alt="C">
+    <img src="https://img.shields.io/badge/MATLAB-E0AF68?style=for-the-badge&logo=mathworks&logoColor=1A1B26" alt="MATLAB">
 </p>
 
 ### Machine Learning & AI
 <p>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-FF9E64?style=for-the-badge&logo=tensorflow&logoColor=1A1B26" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/PyTorch-F7768E?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/OpenCV-7AA2F7?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+    <img src="https://img.shields.io/badge/scikit_learn-9ECE6A?style=for-the-badge&logo=scikit-learn&logoColor=1A1B26" alt="Scikit Learn">
 </p>
 
 ### Data Science & Visualization
 <p>
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Pandas-BB9AF7?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Numpy-7DCFFF?style=for-the-badge&logo=numpy&logoColor=1A1B26" alt="NumPy">
+    <img src="https://img.shields.io/badge/Matplotlib-E0AF68?style=for-the-badge" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-73DACA?style=for-the-badge" alt="Seaborn">
 </p>
 
 ### Hardware & IoT
 <p>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-9ECE6A?style=for-the-badge&logo=Arduino&logoColor=1A1B26" alt="Arduino">
+    <img src="https://img.shields.io/badge/ESP32-414868?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-F7768E?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi">
 </p>
 
 </div>
@@ -112,48 +107,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🐜 [Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)
-**Advanced path planning using swarm intelligence**
-- 🔧 Technologies: Python, NumPy, Matplotlib
-- 🎯 Focus: Optimization Algorithms, Swarm Intelligence
-- 📊 Results: Efficient pathfinding solutions
-
-</td>
-<td width="50%">
-
-### 📱 [Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)
-**Real-time QR code detection system**
-- 🔧 Technologies: OpenCV, Python, mvsdk
-- 🎯 Focus: Computer Vision, Real-time Processing
-- 📊 Results: High-accuracy QR detection
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 [Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)
-**Object tracking robot with advanced sensors**
-- 🔧 Technologies: Arduino, Lidar, Sensors
-- 🎯 Focus: Robotics, Object Tracking, Autonomous Navigation
-- 📊 Results: Precise following behavior
-
-</td>
-<td width="50%">
-
-### 🌤️ [IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)
-**Smart environmental monitoring system**
-- 🔧 Technologies: ESP32, IoT, Sensors
-- 🎯 Focus: IoT Development, Environmental Monitoring
-- 📊 Results: Automated weather response system
-
-</td>
-</tr>
-</table>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| 🐜 **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)** | Advanced path planning using swarm intelligence algorithms | `Python` `NumPy` `Matplotlib` |
+| 📱 **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)** | Real-time QR code detection using OpenCV and mvsdk | `OpenCV` `Python` `mvsdk` |
+| 🤖 **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)** | Object tracking robot with indoor-tracking sensor & Lidar | `Arduino` `Lidar` `Sensors` |
+| 🌤️ **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)** | ESP32-based environmental monitoring system | `ESP32` `IoT` `Sensors` |
 
 </div>
 
@@ -163,17 +122,23 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=juhenfw&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juhenfw&theme=radical&utcOffset=7" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=juhenfw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juhenfw&theme=react-dark&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juhenfw&theme=tokyonight" alt="Repos per Language" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juhenfw&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -183,17 +148,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juhenfw&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://github.com/juhenfw/juhenfw/blob/output/github-contribution-grid-snake.svg)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=juhenfw&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -202,15 +157,14 @@
 <div align="center">
 
 ### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🎵 Currently Listening To
-[![Spotify](https://novatorem-juhenfw.vercel.app/api/spotify)](https://open.spotify.com/user/juhenfw)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 **"The future belongs to those who learn more skills and combine them in creative ways."** 
 
 *Let's connect and build something amazing together!* 🚀
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 </div>
