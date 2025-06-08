@@ -107,12 +107,14 @@
 
 <div align="center">
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🐜 **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)** | Advanced path planning using swarm intelligence algorithms | `Python` `NumPy` `Matplotlib` |
-| 📱 **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)** | Real-time QR code detection using OpenCV and mvsdk | `OpenCV` `Python` `mvsdk` |
-| 🤖 **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)** | Object tracking robot with indoor-tracking sensor & Lidar | `RaspberryPi` `Lidar` `Sensors` |
-| 🌤️ **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)** | ESP32-based environmental monitoring system | `ESP32` `IoT` `Sensors` |
+| Project | Description | Status | Technologies |
+|---------|-------------|--------|--------------|
+| 🐜 **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)** | Advanced path planning using swarm intelligence algorithms | ![Finished](https://img.shields.io/badge/✅_Finished-9ECE6A?style=for-the-badge&logoColor=1A1B26) | `Python` `NumPy` `Matplotlib` |
+| 📱 **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)** | Real-time QR code detection using OpenCV and mvsdk | ![Finished](https://img.shields.io/badge/✅_Finished-9ECE6A?style=for-the-badge&logoColor=1A1B26) | `OpenCV` `Python` `mvsdk` |
+| 🤖 **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)** | Object tracking robot with indoor-tracking sensor & Lidar | ![On Progress](https://img.shields.io/badge/🚧_On_Progress-E0AF68?style=for-the-badge&logoColor=1A1B26) | `RaspberryPi` `Lidar` `Sensors` |
+| 🌤️ **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)** | ESP32-based environmental monitoring system | ![Finished](https://img.shields.io/badge/✅_Finished-9ECE6A?style=for-the-badge&logoColor=1A1B26) | `ESP32` `IoT` `Sensors` |
+| 🔍 **[YOLO Object Detection](https://github.com/Juhenfw/yolo-detection)** | High-performance object detection with 200+ FPS | ![Coming Soon](https://img.shields.io/badge/🔜_Coming_Soon-BB9AF7?style=for-the-badge&logoColor=1A1B26) | `YOLO` `TensorRT` `OpenCV` |
+| 🧠 **[Smart Adaptive Cleaner](https://github.com/Juhenfw/adaptive-cleaner)** | Autonomous cleaning robot with path optimization | ![Beta](https://img.shields.io/badge/🧪_Beta-7DCFFF?style=for-the-badge&logoColor=1A1B26) | `Webots` `Python` `AI` |
 
 </div>
 
