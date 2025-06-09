@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header dengan Typing Animation - TokyoNight Theme -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Juhen+👋;Robotics+%26+AI+Student;Tech+Innovation+Explorer&color=1A1B26" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Juhen+👋;Robotics+%26+AI+Student;Tech+Innovation+Explorer&color=03e3fc" alt="Typing SVG" />
 
 <!-- Subtitle -->
 <h3>🎓 Robotics & AI Student at Airlangga University</h3>
