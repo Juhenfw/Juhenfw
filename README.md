@@ -1,1 +1,1 @@
-Machine Learning, Deep Learning, Computer Vision, Robotics Program, DIY Program.
+Machine Learning, Deep Learning, Computer Vision, Robot Software, Embedded Systems, IoT & Prototyping.
