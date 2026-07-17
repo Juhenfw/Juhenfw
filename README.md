@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ⚡ Juhen Fashikha Wildan
+  # Juhen Fashikha Wildan
   **Robotics & AI Engineer in Training | Universitas Airlangga**
   
   <br>
@@ -14,7 +14,7 @@
 
 ---
 
-### 💻 `whoami`
+### `whoami`
 
 ```python
 class Developer:
@@ -34,7 +34,7 @@ class Developer:
 
 ---
 
-### 🛠️ `sys.modules`
+### `sys.modules`
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -45,7 +45,7 @@ class Developer:
 
 ---
 
-### 🚀 `execution_log` (Featured Projects)
+### `execution_log` (Featured Projects)
 
 <details open>
 <summary><b>View Projects</b></summary>
@@ -59,7 +59,7 @@ class Developer:
 
 ---
 
-### 📚 `publications_log` (Google Scholar)
+### `publications_log` (Google Scholar)
 
 <details open>
 <summary><b>View Publications</b></summary>
@@ -73,9 +73,9 @@ class Developer:
 
 ---
 
-### 📊 `system_metrics`
+### `system_metrics`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juhenfw&show_icons=false&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juhenfw&show_icons=false&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26&v=1" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26&v=1" />
 </div>
