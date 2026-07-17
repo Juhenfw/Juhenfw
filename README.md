@@ -88,7 +88,7 @@ class Developer:
 ### `system_metrics`
 
 <div align="center">
-  <img width="48%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=juhenfw&theme=tokyonight&hide_border=true" />
+  <img width="48%" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&show_icons=false&theme=tokyonight&hide_border=true&count_private=true&bg_color=1A1B26" />
   <img width="48%" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
   <br><br>
   <img width="98%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juhenfw&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B26" />
