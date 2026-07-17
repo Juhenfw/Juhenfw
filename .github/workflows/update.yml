@@ -9,15 +9,21 @@ on:
     - cron: '0 0 * * 0' # Berjalan otomatis setiap hari Minggu tengah malam (UTC)
   workflow_dispatch: # Mengaktifkan tombol run manual
 
+# PERBAIKAN 1: Memberikan izin kepada bot untuk melakukan 'git push'
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # PERBAIKAN 2: Menggunakan actions v4 untuk menghilangkan warning
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       
+      # PERBAIKAN 3: Menggunakan actions v5 untuk menghilangkan warning
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
