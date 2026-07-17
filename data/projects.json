@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Ant Colony Optimization",
+    "url": "https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony",
+    "description": "Advanced path planning using swarm intelligence algorithms.",
+    "tech": ["Python", "NumPy"]
+  },
+  {
+    "title": "Autonomous Follow Robot",
+    "url": "https://github.com/Juhenfw/Robot-Follow-Me",
+    "description": "Object tracking robot integrated with indoor-tracking sensors & Lidar.",
+    "tech": ["RaspberryPi", "Hardware"]
+  },
+  {
+    "title": "Computer Vision QR Detection",
+    "url": "https://github.com/Juhenfw/QRCode-Camera",
+    "description": "Real-time high-speed QR code detection.",
+    "tech": ["OpenCV", "Python", "mvsdk"]
+  },
+  {
+    "title": "Smart Adaptive Cleaner (El-Roomba)",
+    "url": "https://github.com/Juhenfw/Smart-Adaptive-Cleaner-El-Roomba",
+    "description": "Autonomous cleaning robot simulation with path optimization.",
+    "tech": ["Webots", "Python"]
+  },
+  {
+    "title": "IoT Weather Station",
+    "url": "https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT",
+    "description": "Smart environmental monitoring and automated actuation system.",
+    "tech": ["ESP32", "C++"]
+  }
+]
