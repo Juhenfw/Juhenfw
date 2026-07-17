@@ -87,15 +87,9 @@ class Developer:
 
 ### `system_metrics`
 
-<p align="center">
-  <!-- Kartu Kiri: GitHub Stats (Set Tema & Tinggi) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Juhenfw&show_icons=true&theme=tokyonight" height="195" />
-  
-  <!-- Kartu Kanan: Top Languages (Set Tema & Tinggi yang Sama) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhenfw&layout=compact&theme=tokyonight" height="195" />
-</p>
-
-<!-- Grafik Kontribusi di Bawahnya (Biar Center) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juhenfw&theme=react-dark&bg_color=1a1b26&color=70a5fd&line=4e75f6&point=bf91f3&area=true&hide_border=true" width="100%" />
-</p>
+<div align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
+  <br><br>
+  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juhenfw&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B26" />
+</div>
