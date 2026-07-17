@@ -52,7 +52,17 @@ class Developer:
 <br>
 
 <!-- START_SECTION:projects -->
-<!-- Data proyek akan disuntikkan di sini oleh GitHub Actions -->
+- **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)**
+  Advanced path planning using swarm intelligence algorithms. (`Python`, `NumPy`)
+- **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)**
+  Object tracking robot integrated with indoor-tracking sensors & Lidar. (`RaspberryPi`, `Hardware`)
+- **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)**
+  Real-time high-speed QR code detection. (`OpenCV`, `Python`, `mvsdk`)
+- **[Smart Adaptive Cleaner (El-Roomba)](https://github.com/Juhenfw/Smart-Adaptive-Cleaner-El-Roomba)**
+  Autonomous cleaning robot simulation with path optimization. (`Webots`, `Python`)
+- **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)**
+  Smart environmental monitoring and automated actuation system. (`ESP32`, `C++`)
+
 <!-- END_SECTION:projects -->
 
 </details>
@@ -66,7 +76,9 @@ class Developer:
 <br>
 
 <!-- START_SECTION:scholar -->
-<!-- Data publikasi akan disuntikkan di sini otomatis -->
+- **A Review: Artificial Intelligence Related to Agricultural Equipment Integrated with the Internet of Things** (2023)
+- **Multi-microcontroller system for Mecanum robots with gripper-shooter mechanisms** (2025)
+
 <!-- END_SECTION:scholar -->
 
 </details>
