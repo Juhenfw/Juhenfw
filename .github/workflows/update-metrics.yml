@@ -1,0 +1,50 @@
+name: Generate GitHub Metrics and Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Otomatis update setiap 12 jam
+  workflow_dispatch: # Memungkinkan Anda menjalankan manual kapan saja
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. Buat folder dist untuk menampung hasil generate
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Prepare Directory
+        run: mkdir -p dist
+
+      # 2. Generate Animasi Snake (Path Planning)
+      - name: Generate GitHub Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: juhenfw
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Generate Lowlighter Metrics (Modern Developer Dashboard)
+      - name: Generate Lowlighter Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: dist/github-metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: Asia/Jakarta
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 6
+          output_action: none # Dimatikan karena kita akan commit manual bersama file Snake
+
+      # 4. Push semua hasil (.svg) ke branch bernama 'output'
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

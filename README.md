@@ -93,15 +93,19 @@ class Developer:
 
 ### `system_metrics`
 
-<div align="center"> 
+<div align="center">
+  <!-- GitHub Metrics (Bebas dari Server Down / Cache) -->
+  <img src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
-<!-- Baris 1: Stats & Streak --> 
-<a href="https://github.com/juhenfw"> 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" /> </a> <a href="https://github.com/juhenfw"> 
-<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" /> </a> <br> 
+  <br><br>
 
-<!-- Baris 2: Top Languages --> 
-<a href="https://github.com/juhenfw"> <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" /> </a> </div>
+  <!-- Path Planning Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
 
 ---
 <p align="center">
