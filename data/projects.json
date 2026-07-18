@@ -1,5 +1,11 @@
 [
   {
+    "title": "Real-time Component Inspection System (Thesis)",
+    "url": "https://github.com/Juhenfw/EfficientDet-sistem-inspeksi-visual-otomatis-mvsdk",
+    "description": "Optimized industrial inspection system using EfficientDet. Achieved 97% precision with a latency of 0.55s, effectively meeting real-time production requirements.",
+    "tech": ["Python", "EfficientDet", "Computer Vision"]
+  },
+  {
     "title": "Ant Colony Optimization",
     "url": "https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony",
     "description": "Advanced path planning using swarm intelligence algorithms.",
@@ -9,13 +15,13 @@
     "title": "Autonomous Follow Robot",
     "url": "https://github.com/Juhenfw/Robot-Follow-Me",
     "description": "Object tracking robot integrated with indoor-tracking sensors & Lidar.",
-    "tech": ["RaspberryPi", "Hardware"]
+    "tech": ["ROS 2", "Python", "Hardware"]
   },
   {
     "title": "Computer Vision QR Detection",
     "url": "https://github.com/Juhenfw/QRCode-Camera",
     "description": "Real-time high-speed QR code detection.",
-    "tech": ["OpenCV", "Python", "mvsdk"]
+    "tech": ["OpenCV", "Python"]
   },
   {
     "title": "Smart Adaptive Cleaner (El-Roomba)",

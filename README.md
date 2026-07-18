@@ -12,6 +12,8 @@
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=juhenfw&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS)
+
 ---
 
 ### `whoami`
@@ -91,8 +93,24 @@ class Developer:
 ### `system_metrics`
 
 <div align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
-  <br><br>
-  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juhenfw&theme=tokyo-night&hide_border=true&area=true&bg_color=1A1B26" />
+  <!-- Baris 1: Stats & Streak -->
+  <a href="https://github.com/juhenfw">
+    <img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" />
+  </a>
+  <a href="https://github.com/juhenfw">
+    <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" />
+  </a>
+  
+  <br>
+
+  <!-- Baris 2: Top Languages -->
+  <a href="https://github.com/juhenfw">
+    <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
+  </a>
 </div>
+
+---
+<p align="center">
+  <code>juhenfw@system:~$ exit 0</code><br>
+  <i>Connection closed by foreign host.</i>
+</p>
