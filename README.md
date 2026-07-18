@@ -95,7 +95,7 @@ class Developer:
 
 <div align="center">
   <!-- Jalur alternatif untuk menghancurkan GitHub Camo Cache -->
-  <img src="https://github.com/Juhenfw/Juhenfw/blob/output/github-metrics.svg?raw=true&v=2" alt="GitHub Metrics" width="100%" />
+  <img src="https://github.com/Juhenfw/Juhenfw/blob/output/github-metrics.svg?raw=true&v=2" alt="GitHub Metrics" width="95%" />
 
   <br><br>
 
