@@ -32,7 +32,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Juhenfw
-          filename: github-metrics.svg # <--- Menggunakan nama file standar di root
+          filename: github-metrics.svg
           base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
           plugin_languages: yes
@@ -41,11 +41,11 @@ jobs:
           output_action: none
           plugins_errors_fatal: yes
 
-      # 3. Pindahkan file metrics ke folder dist (Sekarang pasti aman karena jalur root-nya jelas)
-      - name: Move Metrics to Dist
-        run: mv github-metrics.svg dist/
+      # 3. KUNCI UTAMA: Ambil paksa file dari folder sistem luar ke folder dist proyek kita
+      - name: Copy Metrics to Dist
+        run: sudo cp /metrics_renders/github-metrics.svg dist/
 
-      # 4. Push ke branch 'output'
+      # 4. Push semua isi folder dist ke branch 'output'
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
