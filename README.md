@@ -94,16 +94,16 @@ class Developer:
 ### `system_metrics`
 
 <div align="center">
-  <!-- GitHub Metrics (Ditambahkan cache-buster ?v=1) -->
-  <img src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-metrics.svg?v=1" alt="GitHub Metrics" width="100%" />
+  <!-- Jalur alternatif untuk menghancurkan GitHub Camo Cache -->
+  <img src="https://github.com/Juhenfw/Juhenfw/blob/output/github-metrics.svg?raw=true&v=2" alt="GitHub Metrics" width="100%" />
 
   <br><br>
 
   <!-- Path Planning Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juhenfw/Juhenfw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juhenfw/Juhenfw/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Juhenfw/Juhenfw/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
