@@ -1,7 +1,9 @@
 <div align="center">
   
   # Juhen Fashikha Wildan
-  **Applied AI Engineer (Computer Vision & DL) with Hands-on Robotics Experience | Robotics & AI Engineering Graduate at Universitas Airlangga**
+  **Applied AI Engineer (Computer Vision & DL) with Hands-on Robotics Experience**
+  <br>
+  *Robotics & AI Engineering Graduate at Universitas Airlangga 🇮🇩 | Open for Collaborations*
   
   <br>
 
@@ -9,10 +11,11 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhenfw/)
   [![Google Scholar](https://img.shields.io/badge/Scholar-9ECE6A?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id)
   [![Email](https://img.shields.io/badge/Email-F7768E?style=flat-square&logo=gmail&logoColor=white)](mailto:juhenwildan@gmail.com)
+  
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=juhenfw&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
-
-![](https://komarev.com/ghpvc/?username=juhenfw&color=7AA2F7&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
@@ -40,11 +43,11 @@ class Developer:
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `C++` `C` `MATLAB` |
-| **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` `EfficientDet` |
-| **Robotics & Edge** | `ROS2` `Linux` `Raspberry Pi` `Jetson Nano` |
-| **Data & Math** | `NumPy` `Pandas` `Matplotlib` `Seaborn` |
-| **Hardware & IoT**| `ESP32` `Raspberry Pi` `Arduino` `Sensors & Lidar` |
+| `~/` **Languages** | `Python` `C++` `C` `MATLAB` |
+| `>_` **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` `EfficientDet` |
+| `./` **Robotics & Edge** | `ROS2` `Linux` `Raspberry Pi` `Jetson Nano` |
+| `&_` **Data & Math** | `NumPy` `Pandas` `Matplotlib` `Seaborn` |
+| `*:` **Hardware & IoT**| `ESP32` `Arduino` `Sensors & Lidar` |
 
 ---
 
@@ -67,7 +70,6 @@ class Developer:
   Autonomous cleaning robot simulation with path optimization. (`Webots`, `Python`)
 - **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)**
   Smart environmental monitoring and automated actuation system. (`ESP32`, `C++`)
-
 <!-- END_SECTION:projects -->
 
 </details>
@@ -83,7 +85,6 @@ class Developer:
 <!-- START_SECTION:scholar -->
 - **A Review: Artificial Intelligence Related to Agricultural Equipment Integrated with the Internet of Things** (2023)
 - **Multi-microcontroller system for Mecanum robots with gripper-shooter mechanisms** (2025)
-
 <!-- END_SECTION:scholar -->
 
 </details>
@@ -92,22 +93,7 @@ class Developer:
 
 ### `system_metrics`
 
-<div align="center">
-  <!-- Baris 1: Stats & Streak -->
-  <a href="https://github.com/juhenfw">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" />
-  </a>
-  <a href="https://github.com/juhenfw">
-    <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" />
-  </a>
-  
-  <br>
-
-  <!-- Baris 2: Top Languages -->
-  <a href="https://github.com/juhenfw">
-    <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" />
-  </a>
-</div>
+<div align="center"> <!-- Baris 1: Stats & Streak --> <a href="https://github.com/juhenfw"> <img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" /> </a> <a href="https://github.com/juhenfw"> <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" /> </a> <br> <!-- Baris 2: Top Languages --> <a href="https://github.com/juhenfw"> <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" /> </a> </div>
 
 ---
 <p align="center">
