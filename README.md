@@ -7,7 +7,7 @@
   
   <br>
 
-  [![Website](https://img.shields.io/badge/Portfolio-7AA2F7?style=flat-square&logo=google-chrome&logoColor=white)](https://juhenfw.github.io)
+  [![Website](https://img.shields.io/badge/Website-7AA2F7?style=flat-square&logo=google-chrome&logoColor=white)](https://juhenfw.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhenfw/)
   [![Google Scholar](https://img.shields.io/badge/Scholar-9ECE6A?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=7VxM9hwAAAAJ&hl=id)
   [![Email](https://img.shields.io/badge/Email-F7768E?style=flat-square&logo=gmail&logoColor=white)](mailto:juhenwildan@gmail.com)
