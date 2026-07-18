@@ -39,7 +39,7 @@ class Developer:
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `C++` `C` `MATLAB` |
-| **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` `EficientDet` |
+| **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` `EfficientDet` |
 | **Robotics & Edge** | `ROS2` `Linux` `Raspberry Pi` `Jetson Nano` |
 | **Data & Math** | `NumPy` `Pandas` `Matplotlib` `Seaborn` |
 | **Hardware & IoT**| `ESP32` `Raspberry Pi` `Arduino` `Sensors & Lidar` |
