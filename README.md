@@ -53,12 +53,14 @@ class Developer:
 <br>
 
 <!-- START_SECTION:projects -->
+- **[Real-time Component Inspection System (Thesis)](https://github.com/Juhenfw/EfficientDet-sistem-inspeksi-visual-otomatis-mvsdk)**
+  Optimized industrial inspection system using EfficientDet. Achieved 97% precision with a latency of 0.55s, effectively meeting real-time production requirements. (`Python`, `EfficientDet`, `Computer Vision`)
+- **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)**
+  Robot tracking system with sensor fusion and Lidar integration. (`ROS 2`, `Python`, `Hardware`)
+- **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)**
+  High-speed QR detection pipeline for industrial use-cases. (`OpenCV`, `Python`)
 - **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)**
   Advanced path planning using swarm intelligence algorithms. (`Python`, `NumPy`)
-- **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)**
-  Object tracking robot integrated with indoor-tracking sensors & Lidar. (`RaspberryPi`, `Hardware`)
-- **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)**
-  Real-time high-speed QR code detection. (`OpenCV`, `Python`, `mvsdk`)
 - **[Smart Adaptive Cleaner (El-Roomba)](https://github.com/Juhenfw/Smart-Adaptive-Cleaner-El-Roomba)**
   Autonomous cleaning robot simulation with path optimization. (`Webots`, `Python`)
 - **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)**
