@@ -20,15 +20,15 @@
 class Developer:
     def __init__(self):
         self.name = "Juhen Fashikha Wildan"
-        self.role = "Robotics & AI Student"
+        self.role = "Applied AI & Computer Vision Engineer"
         self.location = "Surabaya, Indonesia"
-        self.passions = ["Machine Learning", "Computer Vision", "Autonomous Systems"]
+        self.passions = ["Deep Learning", "Industrial Automation", "Edge Computing"]
         
     def current_status(self):
         return {
-            "learning": ["Deep Learning", "Edge AI", "Advanced Path Planning"],
-            "researching": ["Robotics", "IoT", "Swarm Intelligence"],
-            "tinkering_with": ["YOLO", "TensorRT", "ESP32", "ROS"]
+            "focusing_on": ["Real-time Object Detection", "Model Optimization", "System Architecture"],
+            "researching": ["Robotics", "Edge AI", "Computer Vision"],
+            "tinkering_with": ["YOLOv8/v11", "TensorRT", "ROS 2", "EfficientDet"]
         }
 ```
 
@@ -39,7 +39,8 @@ class Developer:
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | `Python` `C++` `C` `MATLAB` |
-| **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` |
+| **AI & Vision** | `TensorFlow` `PyTorch` `OpenCV` `Scikit-learn` `YOLO` `TensorRT` `EficientDet` |
+| **Robotics & Edge** | `ROS2` `Linux` `Raspberry Pi` `Jetson Nano` |
 | **Data & Math** | `NumPy` `Pandas` `Matplotlib` `Seaborn` |
 | **Hardware & IoT**| `ESP32` `Raspberry Pi` `Arduino` `Sensors & Lidar` |
 
