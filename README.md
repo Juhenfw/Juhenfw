@@ -94,8 +94,8 @@ class Developer:
 ### `system_metrics`
 
 <div align="center">
-  <!-- GitHub Metrics (Bebas dari Server Down / Cache) -->
-  <img src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <!-- GitHub Metrics (Ditambahkan cache-buster ?v=1) -->
+  <img src="https://raw.githubusercontent.com/juhenfw/juhenfw/output/github-metrics.svg?v=1" alt="GitHub Metrics" width="100%" />
 
   <br><br>
 

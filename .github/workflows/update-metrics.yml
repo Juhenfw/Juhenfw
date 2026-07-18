@@ -11,14 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Buat folder dist untuk menampung hasil generate
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # 1. Buat folder tempat penampungan akhir
       - name: Prepare Directory
         run: mkdir -p dist
 
-      # 2. Generate Animasi Snake (Path Planning)
+      # 2. Generate Animasi Snake langsung ke folder dist
       - name: Generate GitHub Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,20 +27,27 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Generate Lowlighter Metrics (Modern Developer Dashboard)
+      # 3. Generate Lowlighter Metrics di root (paling aman untuk plugin ini)
       - name: Generate Lowlighter Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          filename: dist/github-metrics.svg
+          filename: github-metrics.svg
           base: header, activity, community, repositories
           config_timezone: Asia/Jakarta
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 6
-          output_action: none # Dimatikan karena kita akan commit manual bersama file Snake
+          output_action: none
 
-      # 4. Push semua hasil (.svg) ke branch bernama 'output'
+      # 4. Pindahkan file metrics ke folder dist secara manual via bash
+      - name: Move Metrics to Dist
+        run: |
+          if [ -f github-metrics.svg ]; then
+            mv github-metrics.svg dist/
+          fi
+
+      # 5. Push semua hasil yang ada di dalam folder dist ke branch 'output'
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
