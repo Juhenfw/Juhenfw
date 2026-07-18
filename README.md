@@ -93,7 +93,15 @@ class Developer:
 
 ### `system_metrics`
 
-<div align="center"> <!-- Baris 1: Stats & Streak --> <a href="https://github.com/juhenfw"> <img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" /> </a> <a href="https://github.com/juhenfw"> <img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" /> </a> <br> <!-- Baris 2: Top Languages --> <a href="https://github.com/juhenfw"> <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" /> </a> </div>
+<div align="center"> 
+
+<!-- Baris 1: Stats & Streak --> 
+<a href="https://github.com/juhenfw"> 
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats-alpha.vercel.app/api?username=juhenfw&theme=tokyonight&hide_border=true&bg_color=1A1B26&show_icons=true" /> </a> <a href="https://github.com/juhenfw"> 
+<img height="170" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=juhenfw&theme=tokyonight&hide_border=true&background=1A1B26" /> </a> <br> 
+
+<!-- Baris 2: Top Languages --> 
+<a href="https://github.com/juhenfw"> <img height="270" alt="Top Languages" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=juhenfw&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=1A1B26" /> </a> </div>
 
 ---
 <p align="center">
