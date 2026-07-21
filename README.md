@@ -27,13 +27,14 @@ class Developer:
         self.name = "Juhen Fashikha Wildan"
         self.role = "Applied AI & Computer Vision Engineer"
         self.location = "Surabaya, Indonesia"
-        self.passions = ["Deep Learning", "Industrial Automation", "Edge Computing"]
+        self.passions = ["Deep Learning", "Industrial Automation", "Data-Centric AI", "Edge Computing"]
+        self.offline_mode = ["Running", "Balancing Intensive R&D with Physical Health"]
         
     def current_status(self):
         return {
-            "focusing_on": ["Real-time Object Detection", "Model Optimization", "System Architecture"],
-            "researching": ["Robotics", "Edge AI", "Computer Vision"],
-            "tinkering_with": ["YOLOv8/v11", "TensorRT", "ROS 2", "EfficientDet"]
+            "focusing_on": ["Real-time Object Detection", "Dataset Quality & Optimization", "Fault-Tolerant Architectures"],
+            "researching": ["Robotics", "Spatial-Temporal Analysis", "Computer Vision"],
+            "tinkering_with": ["YOLO Family", "ROS 2", "EfficientDet", "LabelImg"]
         }
 ```
 
