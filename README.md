@@ -80,7 +80,7 @@ class Developer:
 
 ---
 
-### `publications_log` (Google Scholar)
+### `publications_log` (Publications)
 
 <details open>
 <summary><b>View Publications</b></summary>
