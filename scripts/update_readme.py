@@ -25,7 +25,22 @@ def get_scholar_publications(author_id, max_pubs=5):
             title = pub['bib'].get('title', 'Untitled')
             year = pub['bib'].get('pub_year', 'N/A')
             
-            markdown += f"- **{title}** ({year})\n"
+            # --- BAGIAN BARU: Membuat Link Tautan ---
+            # Mengambil ID spesifik artikel untuk membuat direct link
+            pub_id = pub.get('author_pub_id', '')
+            
+            if pub_id:
+                # Format URL standar Google Scholar untuk melihat sitasi spesifik
+                url = f"https://scholar.google.com/citations?view_op=view_citation&user={author_id}&citation_for_view={pub_id}"
+                
+                # Desain tombol menggunakan Markdown & HTML (pilih salah satu style)
+                # Style Badge:
+                button = f"<a href='{url}' target='_blank'><img src='https://img.shields.io/badge/📖_View_Paper-F7768E?style=flat-square' alt='View Paper'/></a>"
+            else:
+                button = ""
+                
+            # Menggabungkan ke format markdown README
+            markdown += f"- **{title}** ({year}) {button}\n"
             
         return markdown if markdown else "- Belum ada data publikasi yang ditemukan.\n"
     except Exception as e:
