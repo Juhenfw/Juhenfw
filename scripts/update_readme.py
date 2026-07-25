@@ -1,9 +1,8 @@
 import json
 import re
-from scholarly import scholarly
 
 def generate_project_markdown():
-    with open('data/projects.json', 'r') as f:
+    with open('data/projects.json', 'r', encoding='utf-8') as f:
         projects = json.load(f)
         
     markdown = ""
@@ -13,64 +12,57 @@ def generate_project_markdown():
         markdown += f"  {p['description']} ({tech_stack})\n"
     return markdown
 
-def get_scholar_publications(author_id, max_pubs=5):
+def generate_publication_markdown():
     try:
-        author = scholarly.search_author_id(author_id)
-        scholarly.fill(author, sections=['publications'])
-        
+        # Membaca data dari file publikasi JSON yang baru
+        with open('data/publications.json', 'r', encoding='utf-8') as f:
+            publications = json.load(f)
+            
         markdown = ""
-        for i, pub in enumerate(author['publications']):
-            if i >= max_pubs:
-                break
-            title = pub['bib'].get('title', 'Untitled')
-            year = pub['bib'].get('pub_year', 'N/A')
+        for pub in publications:
+            title = pub.get('title', 'Untitled')
+            year = pub.get('year', '')
+            url = pub.get('url', '')
             
-            # --- BAGIAN BARU: Membuat Link Tautan ---
-            # Mengambil ID spesifik artikel untuk membuat direct link
-            pub_id = pub.get('author_pub_id', '')
-            
-            if pub_id:
-                # Format URL standar Google Scholar untuk melihat sitasi spesifik
-                url = f"https://scholar.google.com/citations?view_op=view_citation&user={author_id}&citation_for_view={pub_id}"
-                
-                # Desain tombol menggunakan Markdown & HTML (pilih salah satu style)
-                # Style Badge:
+            # Membuat tombol badge jika URL tersedia
+            if url:
                 button = f"<a href='{url}' target='_blank'><img src='https://img.shields.io/badge/📖_View_Paper-F7768E?style=flat-square' alt='View Paper'/></a>"
             else:
                 button = ""
                 
-            # Menggabungkan ke format markdown README
-            markdown += f"- **{title}** ({year}) {button}\n"
+            year_str = f" ({year})" if year else ""
+            markdown += f"- **{title}**{year_str} {button}\n"
             
         return markdown if markdown else "- Belum ada data publikasi yang ditemukan.\n"
+    
+    except FileNotFoundError:
+        return "- <!-- File data/publications.json tidak ditemukan! -->\n"
     except Exception as e:
-        print(f"Error fetching scholar data: {e}")
-        return "- <!-- Gagal menarik data Scholar saat eksekusi terakhir. Cek log Actions. -->\n"
+        return f"- <!-- Error membaca file publikasi: {e} -->\n"
 
 def update_readme():
-    with open('README.md', 'r') as f:
+    with open('README.md', 'r', encoding='utf-8') as f:
         readme = f.read()
 
     # 1. Update Projects
     projects_md = generate_project_markdown()
     readme = re.sub(
-        r'(<!-- START_SECTION:projects -->\n).*?(<!-- END_SECTION:projects -->)',
-        f'\\1{projects_md}\n\\2',
+        r'(<!-- START_SECTION:projects -->).*?(<!-- END_SECTION:projects -->)',
+        f'\\1\n{projects_md}\\2',
         readme,
         flags=re.DOTALL
     )
 
-    # 2. Update Google Scholar (Menggunakan ID Anda: 7VxM9hwAAAAJ)
-    scholar_id = "7VxM9hwAAAAJ" 
-    scholar_md = get_scholar_publications(scholar_id, max_pubs=3)
+    # 2. Update Publications (Sekarang membaca dari JSON)
+    scholar_md = generate_publication_markdown()
     readme = re.sub(
-        r'(<!-- START_SECTION:scholar -->\n).*?(<!-- END_SECTION:scholar -->)',
-        f'\\1{scholar_md}\n\\2',
+        r'(<!-- START_SECTION:scholar -->).*?(<!-- END_SECTION:scholar -->)',
+        f'\\1\n{scholar_md}\\2',
         readme,
         flags=re.DOTALL
     )
 
-    with open('README.md', 'w') as f:
+    with open('README.md', 'w', encoding='utf-8') as f:
         f.write(readme)
 
 if __name__ == "__main__":
