@@ -59,18 +59,21 @@ class Developer:
 <br>
 
 <!-- START_SECTION:projects -->
-- **[Real-time Component Inspection System (Thesis)](https://github.com/Juhenfw/EfficientDet-sistem-inspeksi-visual-otomatis-mvsdk)**
-  Optimized industrial inspection system using EfficientDet. Achieved 97% precision with a latency of 0.55s, effectively meeting real-time production requirements. (`Python`, `EfficientDet`, `Computer Vision`)
-- **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)**
-  Robot tracking system with sensor fusion and Lidar integration. (`ROS 2`, `Python`, `Hardware`)
-- **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)**
-  High-speed QR detection pipeline for industrial use-cases. (`OpenCV`, `Python`)
+- **[Automated Component Detection and Completeness Classification (Thesis)](https://github.com/Juhenfw/EfficientDet-sistem-inspeksi-visual-otomatis-mvsdk)**
+  Optimized industrial inspection system using EfficientDet. Achieved 97% precision with a latency of 0.55s, effectively meeting real-time production requirements. (`Python`, `EfficientDet`, `Computer Vision`, `MindVision`, `Camera Calibration`, `Industrial Automation`)
+- **[Real-Time Station-Based Robot Tracking System (Holabot Pudu)](https://github.com/Juhenfw/Station-Based-Robot-Tracking)**
+  Developed a real-time computer vision pipeline to detect and track Holabot Pudu robots across multiple station CCTV feeds.  (`Python`, `Computer Vision`, `CCTV Monitoring`, `YOLO`, `Multithreading`, `Database Management (MySQL/Relational Databases)`)
 - **[Ant Colony Optimization](https://github.com/Juhenfw/AI-for-Optimization-using-Ant-Colony)**
   Advanced path planning using swarm intelligence algorithms. (`Python`, `NumPy`)
+- **[Autonomous Follow Robot](https://github.com/Juhenfw/Robot-Follow-Me)**
+  Object tracking robot integrated with indoor-tracking sensors & Lidar. (`ROS 2`, `Python`, `Hardware`, `LiDar`)
+- **[Computer Vision QR Detection](https://github.com/Juhenfw/QRCode-Camera)**
+  Real-time high-speed QR code detection. (`OpenCV`, `Python`, `Multi-Threading`, `Camera Calibration`)
 - **[Smart Adaptive Cleaner (El-Roomba)](https://github.com/Juhenfw/Smart-Adaptive-Cleaner-El-Roomba)**
   Autonomous cleaning robot simulation with path optimization. (`Webots`, `Python`)
 - **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)**
   Smart environmental monitoring and automated actuation system. (`ESP32`, `C++`)
+
 <!-- END_SECTION:projects -->
 
 </details>
@@ -84,8 +87,8 @@ class Developer:
 <br>
 
 <!-- START_SECTION:scholar -->
-- **A Review: Artificial Intelligence Related to Agricultural Equipment Integrated with the Internet of Things** (2023)
-- **Multi-microcontroller system for Mecanum robots with gripper-shooter mechanisms** (2025)
+- <!-- Gagal menarik data Scholar saat eksekusi terakhir. Cek log Actions. -->
+
 <!-- END_SECTION:scholar -->
 
 </details>
