@@ -73,7 +73,6 @@ class Developer:
   Autonomous cleaning robot simulation with path optimization. (`Webots`, `Python`)
 - **[IoT Weather Station](https://github.com/Juhenfw/ESP32-PenutupJemuranOtomatis-IoT)**
   Smart environmental monitoring and automated actuation system. (`ESP32`, `C++`)
-
 <!-- END_SECTION:projects -->
 
 </details>
@@ -87,8 +86,8 @@ class Developer:
 <br>
 
 <!-- START_SECTION:scholar -->
-- <!-- Gagal menarik data Scholar saat eksekusi terakhir. Cek log Actions. -->
-
+- **A Review: Artificial Intelligence Related to Agricultural Equipment Integrated with the Internet of Things** (2023) <a href='https://doi.org/10.20473/jatm.v2i2.51440' target='_blank'><img src='https://img.shields.io/badge/📖_View_Paper-F7768E?style=flat-square' alt='View Paper'/></a>
+- **Multi-microcontroller system for Mecanum robots with gripper-shooter mechanisms** (2025) <a href='http://doi.org/10.11591/ijra.v14i2.pp181-190' target='_blank'><img src='https://img.shields.io/badge/📖_View_Paper-F7768E?style=flat-square' alt='View Paper'/></a>
 <!-- END_SECTION:scholar -->
 
 </details>
